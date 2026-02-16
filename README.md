@@ -19,7 +19,7 @@ Modern software development is too complex for single-purpose tools. That’s wh
 🕸️ Structural Depth (Graph): See the invisible! Our Neo4j-powered graph engine maps call chains and dependencies. "If I change this, what breaks 5 levels up?" – CodeCortex knows the answer.
 
 ⚡ Powered by .NET 10 & Aspire
-Built on the technology of tomorrow. CodeCortex runs on the bleeding-edge .NET 10 (Preview), with .NET Aspire orchestrating cloud-native containers. Blazing fast, scalable, and brutally modern.
+Built on the technology of tomorrow. CodeCortex runs on the bleeding-edge .NET 10 , with .NET Aspire orchestrating cloud-native containers. Blazing fast, scalable, and brutally modern.
 
 Don't just write code. Master the chaos.
 
