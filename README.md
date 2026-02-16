@@ -1,6 +1,6 @@
-
-
-<img width="1024" height="1024" alt="codecortex-2" src="https://github.com/user-attachments/assets/7fd4ecd9-7340-4bcc-a0a9-76a9278be9ce" />
+<p align="center">
+  <img width="400" height="400" alt="codecortex-2" src="https://github.com/user-attachments/assets/7fd4ecd9-7340-4bcc-a0a9-76a9278be9ce" />
+</p>
 
 🧠 CodeCortex: The Second Brain for Your C# Codebase.
 Lost in the labyrinth of spaghetti code? Tired of "Find All References" not telling you the why?
